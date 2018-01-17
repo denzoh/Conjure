@@ -1,0 +1,19 @@
+.post-date{
+	background-color: #f4f4f4;
+	padding: 4px 3px;
+	border-radius: 2px;
+	margin-bottom: 10px;
+}
+
+.post-body{
+	padding: 10px;
+	background-color: #fafafa;
+}
+
+.post-image{
+	width: 100%;
+}
+
+.landing-page{
+	background: url(landing-page.png);
+}
